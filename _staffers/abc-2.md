@@ -1,8 +1,7 @@
 ---
-name: More Evil Kevin
+name: Abc 2
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
 photo: kevin.jpg
 ---
 
